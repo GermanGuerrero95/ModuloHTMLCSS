@@ -1,0 +1,26 @@
+.input-container {
+    margin-top: 06rem;
+    display: flow-root;
+    flex-direction: column;
+}
+
+.bg-carro{
+    background-image: url('./img/El-carro-de-don-Roberto.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 40%;
+}
+
+.input-container input {
+    border-radius: 0.4rem;
+    border: solid 0.1rem gray;
+    padding: 0.4rem;
+    margin-top: 0.2rem;
+    flex-direction: column;
+}
+
+.btn-save-password {
+    background-color: green;
+    padding: 1rem;
+}
+
